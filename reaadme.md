@@ -8,3 +8,5 @@ select+alt+down=copy the selected portion
 3.) create scss folder and create main.scss,_config.scss(partials) files init.
 
 4.)add css features till footer
+
+5.)create _home.scss file in scss.
